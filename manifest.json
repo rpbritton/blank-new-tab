@@ -1,0 +1,20 @@
+{
+	"manifest_version": 2,
+
+	"name": "blank startpage",
+	"description": "this is a startpage that is blank",
+	"version": "1.0",
+	"incognito": "split",
+	"chrome_url_overrides": {
+		"newtab": "blank.html"
+	},
+	"browser_action": {
+		"default_title": "blank startpage",
+		"default_icon": "imgs/icon96.png"
+	},
+	"icons": {
+		"16": "imgs/icon16.png",
+		"48": "imgs/icon48.png",
+		"96": "imgs/icon96.png"
+	}
+}
