@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Blank Startpage",
 	"description": "This is a startpage that is very empty.",
-	"homepage_url": "https://github.com/rpbritton/wallpaper-from-url-for-chromeos/",
+	"homepage_url": "https://github.com/rpbritton/blank-startpage/",
 	"version": "1.0",
 	"incognito": "split",
 	"chrome_url_overrides": {
